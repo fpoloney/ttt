@@ -3,7 +3,7 @@ page.title=Building Web Apps in WebView
 
 <div id="qv-wrapper">
 <div id="qv">
-<h2>Quickview</h2>
+<h2>change made after pull request #3 Quickview</h2>
 <ul>
   <li>Use {@link android.webkit.WebView} to display web pages in your Android application
 layout</li>
