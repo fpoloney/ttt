@@ -4,7 +4,7 @@ page.title=Migrating to WebView in Android 4.4
 <div id="qv-wrapper">
 <div id="qv">
 
-<h2>In this document</h2>
+<h2>friday --- In this document</h2>
 <ol>
   <li><a href="#UserAgent">User Agent Changes</a></li>
   <li><a href="#Threads">Multi-threading and Thread Blocking</a></li>
