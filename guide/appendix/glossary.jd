@@ -2,7 +2,7 @@ page.title=Glossary
 excludeFromSuggestions=true
 @jd:body
 
-<p>The list below defines some of the basic terminology of the Android platform. </p>
+<p>Change after baseline - The list below defines some of the basic terminology of the Android platform. </p>
     <dl>
     <dt id="apk">.apk file</dt> <dd>Android application package file. Each
     Android application is compiled and packaged in a single file that
