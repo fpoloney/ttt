@@ -4,7 +4,7 @@ page.title=Web Apps
 
 <div class="figure" style="width:327px">
   <img src="{@docRoot}images/webapps/webapps.png" alt="" />
-  <p class="img-caption"><strong>Figure 1.</strong> Change after baseline -- You can make your web content available to
+  <p class="img-caption"><strong>Figure 1.</strong>You can make your web content available to
 users in two ways: in a traditional web browser and in an Android application, by
 including a WebView in the layout.</p>
 </div>
