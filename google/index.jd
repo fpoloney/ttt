@@ -14,7 +14,7 @@ footer.hide=1
         <img class="dac-hero-image" src="{@docRoot}images/google/hero-play-services_2x.png" style="height:400px">
       </div>
       <div class="col-1of2 col-pull-1of2">
-        <h1 class="dac-hero-title">Build better apps with Google</h1>
+        <h1 class="dac-hero-title">Change after baseline - Build better apps with Google</h1>
         <p class="dac-hero-description">
           Take advantage of the latest Google technologies through a single set of APIs, delivered
           across Android devices worldwide as part of Google Play services. </p>
