@@ -3,7 +3,7 @@ page.title=Debugging Web Apps
 
 <div id="qv-wrapper">
 <div id="qv">
-<h2>second change on friday Added Quickview</h2>
+<h2>New changes friday Added Quickview</h2>
 <ul>
   <li>You can debug your web app using console methods in JavaScript</li>
   <li>If debugging in a custom WebView, you need to implement a callback method to handle debug
